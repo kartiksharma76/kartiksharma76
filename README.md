@@ -24,7 +24,92 @@
 </p>
 
 <br><br>
+<!-- ================= ABOUT ME ================= -->
 
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  Hi 👋, I'm <b>Kartik Sharma</b>, a passionate <b>Full Stack Java Developer</b>,
+  <b>AI Enthusiast</b>, and <b>Software Engineer</b> dedicated to building
+  scalable, efficient, and impactful digital solutions.
+</p>
+
+<p align="center">
+  💡 I enjoy transforming innovative ideas into real-world applications through
+  clean code, modern technologies, and strong problem-solving skills.
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+<h3>👨‍💻 What I Do</h3>
+
+<ul>
+  <li>☕ Build enterprise applications using Java, Spring Boot, Hibernate & JDBC</li>
+  <li>🌐 Develop responsive Full Stack Web Applications</li>
+  <li>🔗 Design REST APIs & Microservices Architectures</li>
+  <li>🗄️ Work with MySQL, Oracle & PostgreSQL Databases</li>
+  <li>🤖 Explore AI, Generative AI & Intelligent Systems</li>
+  <li>🧩 Solve DSA & Competitive Programming Problems</li>
+</ul>
+
+</td>
+
+<td width="50%">
+
+<h3>🎯 Current Focus</h3>
+
+<ul>
+  <li>🚀 Advanced Spring Boot & Microservices</li>
+  <li>🤖 AI-Powered Applications</li>
+  <li>☁️ Cloud Computing & DevOps</li>
+  <li>🏗️ System Design & Software Architecture</li>
+  <li>🌍 Open Source Contributions</li>
+  <li>📈 Continuous Learning & Innovation</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<br>
+
+<h3 align="center">💭 Philosophy</h3>
+
+<p align="center">
+<i>"Code. Build. Innovate. Repeat."</i>
+</p>
+
+<p align="center">
+I believe technology is most powerful when it solves real-world problems and
+creates meaningful impact. My goal is to build innovative software solutions
+that improve lives and drive digital transformation.
+</p>
+
+<br>
+
+<h3 align="center">📈 Quick Facts</h3>
+
+<p align="center">
+🔭 Currently Building Full Stack & AI Projects <br>
+🌱 Learning Advanced Software Engineering Concepts <br>
+👯 Open to Collaboration on Innovative Projects <br>
+💬 Ask Me About Java, Spring Boot, AI, Databases & Web Development <br>
+⚡ Fun Fact: I Love Turning Complex Problems into Simple Solutions
+</p>
+
+<br>
+
+<p align="center">
+  <b>✨ Turning Ideas into Real-World Impact Through Technology ✨</b>
+</p>
+
+<!-- ================= END ABOUT ME ================= -->
 <!-- ████ BADGE ROW ████ -->
 
 <img src="https://komarev.com/ghpvc/?username=kartiksharma76&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" />
