@@ -417,10 +417,10 @@ Java · DSA · JDBC · JSP · Servlets · MySQL · Spring Boot · Full Stack Dev
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=⚡+Can+spend+hours+debugging+a+single+semicolon.+Still+worth+it.;🎯+Oracle+Certified+%7C+Walmart+Trained+%7C+Java+Expert;💡+Building+projects+that+solve+real-world+problems." />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=1000&lines=Can+spend+hours+debugging+a+single+semicolon.;Oracle+Certified+%7C+Walmart+Trained+%7C+Java+Developer;Building+projects+that+solve+real-world+problems." />
+</p>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d0d0d&height=120&section=footer&animation=fadeIn&width=1200" width="100%"/>
-
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d0d0d&height=120&section=footer" width="100%"/>
+</p>
