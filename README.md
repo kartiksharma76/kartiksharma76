@@ -385,13 +385,17 @@ Java · DSA · JDBC · JSP · Servlets · MySQL · Spring Boot · Full Stack Dev
 
 # 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartiksharma76&show_icons=true&theme=tokyonight)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kartiksharma76&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartiksharma76&layout=compact&theme=tokyonight)
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiksharma76&layout=compact&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kartiksharma76&theme=tokyonight)
+<br><br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kartiksharma76&theme=react-dark)
+<img width="95%" src="https://streak-stats.demolab.com?user=kartiksharma76&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kartiksharma76&theme=react-dark&hide_border=true" />
 
 </div>
 
