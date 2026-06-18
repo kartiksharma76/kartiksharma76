@@ -377,28 +377,23 @@ Java · DSA · JDBC · JSP · Servlets · MySQL · Spring Boot · Full Stack Dev
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ████████████████  GITHUB ANALYTICS  ██████████████████████ -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════ -->
+<!--           GITHUB ANALYTICS             -->
+<!-- ═══════════════════════════════════════ -->
 
 <div align="center">
 
-## ⬡ GITHUB ANALYTICS
+# 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kartiksharma76&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiksharma76&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartiksharma76&show_icons=true&theme=tokyonight)
 
-<br><br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartiksharma76&layout=compact&theme=tokyonight)
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartiksharma76&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=FF512F&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9" />
+![GitHub Streak](https://streak-stats.demolab.com?user=kartiksharma76&theme=tokyonight)
 
-<br><br>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kartiksharma76&theme=react-dark&hide_border=true&area=true&area_color=00d4ff&color=00d4ff&line=00d4ff&point=FF512F" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kartiksharma76&theme=react-dark)
 
 </div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- ████████████████  CONNECT  ████████████████████████████████ -->
